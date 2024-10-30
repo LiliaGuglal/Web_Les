@@ -1,0 +1,15 @@
+#character {
+    position: absolute;
+    width: 100px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  body {
+    margin: 0;
+    overflow: hidden;
+    height: 100vh;
+    background-color: #f0f0f0;
+  }
+  
