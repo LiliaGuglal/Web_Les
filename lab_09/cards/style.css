@@ -1,0 +1,25 @@
+.cards{
+    width: 100px;
+    height: 200px;
+    /* border: 2px solid black; */
+    margin: 10px;
+    background-image: url(./images/385218163958b5817ded6373dd9f01a6.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+}
+
+article{
+    display: flex;
+    justify-content: center;
+    align-items: normal;
+}
+
+.button{
+    width: 85px;
+    height: 35px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
