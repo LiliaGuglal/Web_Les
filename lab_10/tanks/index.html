@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tanks</title>
+    <link rel="stylesheet" href="./style.css">
+    <script src="./script.js" defer></script>
+</head>
+
+<body>
+    <h1 class="header_title">TANKS</h1>
+    <div id="character-grid">
+        <div class="card_1" onclick="selectCharacter('7TP')">
+            <img src="./img/7_TP_tank.PNG" alt="">
+            <h1>7TP</h1>
+        </div>
+        <div class="card_2" onclick="selectCharacter('А-20')">
+            <img src="./img/A-20-Tank.jpg" alt="">
+            <h2>А-20</h2>
+        </div>
+        <div class="card_3" onclick="selectCharacter('ХТ-26')">
+            <img src="./img/OT-26,_front.jpeg" alt="">
+            <h3>ХТ-26</h3>
+        </div>
+    </div>
+    <div id="character-info" style="display: none;">
+        <h2 id="character-name"></h2>
+        <table>
+            <tr>
+                <td>Health</td>
+                <td id="character-health"></td>
+            </tr>
+            <tr>
+                <td>Protection</td>
+                <td id="character-protection"></td>
+            </tr>
+            <tr>
+                <td>Damage</td>
+                <td id="character-damage"></td>
+            </tr>
+        </table>
+        <button onclick="showAllCharacters()">Back</button>
+    </div>
+</body>
+
+</html>
