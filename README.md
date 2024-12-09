@@ -10,8 +10,6 @@ lab_4  URL:https://liliaguglal.github.io/Web_Les/lab_04/museum/
 
 lab_6  URL:https://liliaguglal.github.io/Web_Les/lab_06/calculator/
 
-lab_6  URL:https://liliaguglal.github.io/Web_Les/lab_06/calculator/
-
 lab_7  URL:https://liliaguglal.github.io/Web_Les/lab_07/guess_number/
 
 lab_8  URL:https://liliaguglal.github.io/Web_Les/lab_08/file_manager/
