@@ -16,6 +16,6 @@ lab_8  URL:https://liliaguglal.github.io/Web_Les/lab_08/
 
 lab_9  URL:https://liliaguglal.github.io/Web_Les/lab_09/cards/
 
-lab_10  URL:https://liliaguglal.github.io/Web_Les/lab_10/tanks/
+lab_10  URL:https://liliaguglal.github.io/Web_Les/lab_10/
 
 lab_12  URL:https://liliaguglal.github.io/Web_Les/lab_12/pokemons/
