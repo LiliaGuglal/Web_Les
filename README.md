@@ -12,4 +12,8 @@ lab_7  URL:https://liliaguglal.github.io/Web_Les/lab_07/guess_number/
 
 lab_8  URL:https://liliaguglal.github.io/Web_Les/lab_08/file_manager/
 
+lab_9  URL:https://liliaguglal.github.io/Web_Les/lab_09/cards/
+
+lab_9  URL:https://liliaguglal.github.io/Web_Les/lab_10/tanks/
+
 lab_12  URL:https://liliaguglal.github.io/Web_Les/lab_12/pokemons/
