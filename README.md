@@ -14,7 +14,7 @@ lab_7  URL:https://liliaguglal.github.io/Web_Les/lab_07/guess_number/
 
 lab_8  URL:https://liliaguglal.github.io/Web_Les/lab_08/
 
-lab_9  URL:https://liliaguglal.github.io/Web_Les/lab_09/cards/
+lab_9  URL:https://liliaguglal.github.io/Web_Les/lab_09/
 
 lab_10  URL:https://liliaguglal.github.io/Web_Les/lab_10/
 
