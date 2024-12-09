@@ -4,7 +4,7 @@ lab_1  URL:    car--https://liliaguglal.github.io/Web_Les/lab_01/car/
 
 lab_2  URL:https://liliaguglal.github.io/Web_Les/lab_02/apples/ 
 
-lab_3  URL:https://liliaguglal.github.io/Web_Les/lab_03/planets/
+lab_3  URL:https://liliaguglal.github.io/Web_Les/lab_03/
 
 lab_4  URL:https://liliaguglal.github.io/Web_Les/lab_04/museum/
 
