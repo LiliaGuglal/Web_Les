@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100..900&family=Outfit:wght@100..900&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+/* ----------------------location_map-------------------------------- */
+
+.location_map {
+    background-image: url(./images/Maps.png);
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+}
+
+.button_cust {
+    display: flex;
+    justify-content: left;
+    align-items: normal;
+    padding-left: 156px;
+}
+
+button {
+    padding: 24px 25px;
+    background-color: black;
+    color: white;
+    font-family: 'Big Shoulders Display';
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 5px;
+    cursor: pointer;
+}
+
+.button_img {
+    padding: 24px;
+    background-color: #D5966C;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+/* ----------------------location_det-------------------------------- */
+
+.text_det {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: normal;
+    padding: 120px 165px;
+}
+
+.text_det h1 {
+    font-family: 'Big Shoulders Display';
+    font-size: 60px;
+    font-weight: 900;
+    padding-right: 200px;
+    color: white;
+}
+
+.text_sm_det h3 {
+    font-family: 'Big Shoulders Display';
+    font-size: 35px;
+    font-weight: 700;
+    color: #D5966C;
+}
+
+.text_det p {
+    color: white;
+    font-family: 'Outfit';
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.text_det_1 {
+    padding-top: 24px;
+    padding-bottom: 32px;
+}
+
+.text_det_2 {
+    width: 540px;
+    height: 128px;
+}
+
+/* ----------------------footer-------------------------------- */
+
+footer {
+    background-color: #D5966C;
+    width: 100%;
+    height: 100%
+}
+
+.footer_flex {
+    display: flex;
+    justify-content: center;
+    align-items: normal;
+    color: white;
+    margin: auto;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.footer_flex p {
+    font-family: 'Outfit';
+    font-size: 18px;
+    font-weight: 300;
+    width: 430px;
+    padding-right: 280px;
+    color: black;
+}
+
+.footer_flex h3 {
+    font-family: 'Big Shoulders Display';
+    font-size: 40px;
+    font-weight: 900;
+    padding-right: 140px;
+    color: black;
+}
+
+.img_footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+
