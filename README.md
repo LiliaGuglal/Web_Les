@@ -1,7 +1,5 @@
 lab_1  URL:    car--https://liliaguglal.github.io/Web_Les/lab_01/car/
-
                 food--https://liliaguglal.github.io/Web_Les/lab_01/food/
-                
                 kitchen--https://liliaguglal.github.io/Web_Les/lab_01/kitchen/
 
 lab_2  URL:https://liliaguglal.github.io/Web_Les/lab_02/apples/ 
